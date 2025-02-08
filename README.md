@@ -13,10 +13,10 @@ The Responsible AI Toolkit for Finance is a groundbreaking initiative aimed at e
 
 
 # Benefits:
-. Ensures ethical AI practices by identifying and addressing data biases.
-. Enhances trust and accountability in financial decision-making processes.
-. Simplifies compliance with regulatory frameworks like GDPR, ECOA, and AI ethics guidelines.
-. Reduces risks associated with discriminatory decisions in AI systems.
+- Ensures ethical AI practices by identifying and addressing data biases.
+- Enhances trust and accountability in financial decision-making processes.
+- Simplifies compliance with regulatory frameworks like GDPR, ECOA, and AI ethics guidelines.
+- Reduces risks associated with discriminatory decisions in AI systems.
 
 # Business Use Case:
 Financial institutions can utilize the toolkit to evaluate their AI models, ensuring fairness in loan approvals, credit scoring, and other sensitive applications. This fosters trust among customers and regulators while enabling data-driven innovation.
